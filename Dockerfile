@@ -1,4 +1,4 @@
-FROM docker:24
+FROM docker:24.0.5
 
 RUN apk add bash
 
